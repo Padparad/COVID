@@ -1,5 +1,8 @@
 COVID
+A project that simulates the spread of contagious virus using a relationship graph.
 
+
+Input:
 java StopContagion [-d] [-r RADIUS] num_nodes input_file,
 where [-d] and [-r] are optional parameters. And we consider the examples provided by the handout, here's a few points:
 1. PLEASE type in [-d] when testing removeByDegree();
